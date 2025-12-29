@@ -5,17 +5,24 @@
 
 ### Скачать впн клиент. Я рекомендую версию 17.16.4 так как она использовалась для тестов:
 
+
 ```bash
 https://github.com/2dust/v2rayN/releases
 ```
 
+
 ### После установки откройте клиент. Предварительно скопируйте ссылку, которую вы получили(это ваша личная ссылка для подключения). В левом верхнем углу нажмите "Configuration" -> "Import Share Links From clipboard". 
+
 
 <img width="1194" height="831" alt="image" src="https://github.com/user-attachments/assets/4aa91737-0bec-413b-8333-a6300b913121" />
 
+
+
 ### У вас должна появиться следующая строка:
 
+
 <img width="1190" height="876" alt="image" src="https://github.com/user-attachments/assets/aac8750c-d69b-482f-8770-dd24dec4efdf" />
+
 
 
 ### После выставите следующие настройки (Обведено Красным на скриншоте сверху)
