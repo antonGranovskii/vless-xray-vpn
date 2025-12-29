@@ -9,7 +9,7 @@
 https://github.com/2dust/v2rayN/releases
 ```
 
-### После установки откройте клиент и в левом верхнем углу нажмите "Configuration" -> "Import Share Links From clipboard"
+### После установки откройте клиент. Предварительно скопируйте ссылку, которую вы получили(это ваша личная ссылка для подключения). В левом верхнем углу нажмите "Configuration" -> "Import Share Links From clipboard". 
 
 <img width="1194" height="831" alt="image" src="https://github.com/user-attachments/assets/4aa91737-0bec-413b-8333-a6300b913121" />
 
